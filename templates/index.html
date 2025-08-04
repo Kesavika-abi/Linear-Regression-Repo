@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Concert Ticket Price Prediction</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>🎤 Concert Ticket Price Prediction</h1>
+    <form action="/predict" method="POST">
+        <label>Artist:</label>
+        <input type="text" name="artist" required>
+
+        <label>Genre:</label>
+        <input type="text" name="genre" required>
+
+        <label>Popularity Score (0-100):</label>
+        <input type="number" name="popularity" step="0.1" required>
+
+        <label>Venue Capacity:</label>
+        <input type="number" name="capacity" required>
+
+        <label>City:</label>
+        <input type="text" name="city" required>
+
+        <label>Month (1-12):</label>
+        <input type="number" name="month" min="1" max="12" required>
+
+        <label>Demand Index (0-100):</label>
+        <input type="number" name="demand" step="0.1" required>
+
+        <label>Ticket Type:</label>
+        <input type="text" name="ticket_type" required>
+
+        <button type="submit">Predict Price</button>
+    </form>
+</div>
+</body>
+</html>

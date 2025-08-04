@@ -1,0 +1,21 @@
+Artist,Genre,Popularity_Score,Venue_Capacity,City,Month,Demand_Index,Ticket_Type,Price
+Taylor Swift,Pop,95,50000,New York,7,90,VIP,350
+Coldplay,Rock,88,45000,Los Angeles,5,85,Standard,120
+Ed Sheeran,Pop,92,60000,Chicago,8,92,VIP,300
+BTS,K-Pop,99,70000,Miami,12,98,Standard,200
+The Weeknd,R&B,89,55000,Toronto,9,88,VIP,280
+Adele,Pop,94,40000,London,6,87,VIP,320
+Drake,Hip-Hop,90,45000,Atlanta,11,85,Standard,150
+Billie Eilish,Pop,85,35000,San Francisco,4,80,Early Bird,100
+Eminem,Hip-Hop,93,60000,Detroit,10,95,VIP,310
+Bruno Mars,Pop,91,42000,Las Vegas,3,86,Standard,140
+Shawn Mendes,Pop,88,38000,New York,2,83,Early Bird,110
+Post Malone,Hip-Hop,87,50000,Houston,5,82,Standard,130
+Harry Styles,Pop,92,45000,Chicago,7,90,VIP,290
+BLACKPINK,K-Pop,97,65000,Los Angeles,8,96,VIP,340
+Maroon 5,Rock,86,40000,Boston,6,84,Standard,125
+Justin Bieber,Pop,94,60000,Seattle,12,93,VIP,310
+Kendrick Lamar,Hip-Hop,89,42000,Atlanta,9,88,Standard,145
+Lady Gaga,Pop,93,55000,Las Vegas,11,92,VIP,305
+Ariana Grande,Pop,90,48000,Miami,10,89,Standard,160
+Imagine Dragons,Rock,87,46000,Denver,8,85,Early Bird,115
