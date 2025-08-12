@@ -69,7 +69,7 @@ Open in your browser:
 
 http://127.0.0.1:5000/
 
-###  Screenshots
+##  Screenshots
 
 ## Input Form
 
@@ -80,15 +80,15 @@ http://127.0.0.1:5000/
 ![result](result.png)
 
 ###  Use Cases
- Concert event planning — Estimate fair ticket pricing
+ - Concert event planning — Estimate fair ticket pricing
 
- Demand-based pricing strategies for music events
+ - Demand-based pricing strategies for music events
 
- Machine Learning Regression demonstration
+ - Machine Learning Regression demonstration
 
 ###  Future Enhancements
-Add more artists and genres to dataset
+ - Add more artists and genres to dataset
 
-Integrate real-time demand data from APIs
+ - Integrate real-time demand data from APIs
 
-Deploy online via Heroku, Render, or AWS
+ - Deploy online via Heroku, Render, or AWS
